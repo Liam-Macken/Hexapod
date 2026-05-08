@@ -4,7 +4,7 @@
 ServoDriver driver;   // Create servo object
 Leg leg0(&driver,0);
 
-// 🔹 Global variables
+// Global variables
 int i = 0;
 int T = 5;
 int freq = 10; 
